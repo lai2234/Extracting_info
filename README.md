@@ -1,2 +1,2 @@
-# Data Analytic Project
+# Chi-Square Project
 
