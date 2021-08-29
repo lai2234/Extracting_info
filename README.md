@@ -1,2 +1,2 @@
-# Chi-Square Project
+# Extracting job information from Indeed
 
