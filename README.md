@@ -1,2 +1,2 @@
-# Extracting job information from Indeed
+# Extracting my search information from Indeed
 
