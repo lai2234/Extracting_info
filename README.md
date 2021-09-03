@@ -1,2 +1,2 @@
-# Extracting my search information from Indeed
+# Extracting search information from Indeed using python
 
